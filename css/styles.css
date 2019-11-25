@@ -1,16 +1,15 @@
 body {
     background: url(https://picua.org/images/2019/11/25/f205470bd8528c19fb6dd506affcf7dd.jpg);
-    font-size: 2-large;
+    font-size: 20pt;
+    color: blue
 }
 
 h1 {
     opacity: 0.4;
-    background: red;
-    color: blue
+    background: red
 }
 
 h2 {
     opacity: 0.4;
-    background: red;
-    color: blue
+    background: red
 }
